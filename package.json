@@ -10,8 +10,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-community/geolocation": "^3.4.0",
+    "axios": "^1.7.9",
     "react": "18.3.1",
-    "react-native": "0.76.5"
+    "react-native": "0.76.5",
+    "react-native-geolocation-service": "^5.3.1",
+    "react-native-progress": "^5.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
